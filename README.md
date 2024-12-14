@@ -100,8 +100,10 @@ If you want to run this project locally:
 
 ## 💖 Credits
 EwaNet is designed and developed by **Ewa**, inspired by retro internet aesthetics and powered by creativity and tea! 🍵
+
 Memes and Gifs from "giphy.com" and "imgflip.com"
-Fonts are from "[google](https://fonts.google.com/)"
+
+Fonts are from "fonts.google.com"
 ---
 
 Happy browsing! 🚀🌈
