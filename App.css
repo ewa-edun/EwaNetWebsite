@@ -132,3 +132,58 @@ button{
 .topic{
   color: #00ff00;
 }
+
+/* Mobile-friendly styling */
+@media (max-width: 600px) {
+  body {
+    font-size: 1.2em;
+  }
+
+  .block {
+    max-width: 90%;
+    padding: 10px;
+    left: 0; /* Center on mobile */
+  }
+
+  .side {
+    float: none;
+    margin: 20px auto;
+    max-width: 90%;
+    min-height: auto; /* Adjust height for smaller screens */
+    left: 0;
+  }
+
+  .navbar ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .navbar li {
+    float: none;
+    text-align: center;
+  }
+
+  .navbar a {
+    font-size: 1em;
+    padding: 10px;
+  }
+
+  button {
+    font-size: 20px;
+    padding: 8px;
+    margin-left: 0;
+  }
+
+  .block-title {
+    font-size: 1.5rem;
+  }
+
+  .mylink {
+    font-size: 1em;
+  }
+
+  .baitbutton {
+    padding: 8px 15px;
+    font-size: 1.2em;
+  }
+}
