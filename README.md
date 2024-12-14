@@ -105,4 +105,4 @@ Fonts are from "fonts.google.com"
 ---
 
 Happy browsing! 🚀🌈
-```
+
