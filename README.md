@@ -1,5 +1,3 @@
-# EwaNetWebsite
-
 # 🌐 EwaNet: My Personal Internet Portal 🎉
 
 Welcome to **EwaNet** ✨, my retro-inspired, personal corner of the web! This project is a quirky, nostalgic throwback to the early internet era, combining fun, creativity, and personal flair with modern web development practices. Whether you're here to explore my hobbies, laugh at memes, or dive into some futuristic musings, EwaNet has something for everyone. 🌟
@@ -13,8 +11,7 @@ Welcome to **EwaNet** ✨, my retro-inspired, personal corner of the web! This p
 4. [🚀 Hosting ](#hosting)
 5. [🛠️ Setup Instructions ](#setup-instructions)
 6. [📄 Pages Overview](#pages-overview)
-7. [✨ Extras](#extras)
-8. [🚀 Future Enhancements](#future-enhancements)
+7. [💖 Credits](#credits)
 
 ---
 
@@ -104,21 +101,10 @@ If you want to run this project locally:
 ## 💖 Credits
 EwaNet is designed and developed by **Ewa**, inspired by retro internet aesthetics and powered by creativity and tea! 🍵
 
+Memes and Gifs from "giphy.com" and "imgflip.com"
+
+Fonts are from "fonts.google.com"
 ---
 
 Happy browsing! 🚀🌈
-
-
-## Page 1
-(Home, About, Vibes, Rant): intro of website, music, Today’s Vibes: A weather forecast-style section with the “Ewa Index” (tea level, coding energy, hackathon hype), Random thoughts from your ENTP brain—coding woes, hackathon hype, or tea debates and about of me.
-
-## Page 2: 
-(Dashboard or regular page of hobbies): hobbies include crochet, reading books, anime, and coding skills and hackathons with under construction gif by the hackathons side.
-
-## Page 3(Memes and Time machine): 
- A gallery of badly drawn or retro-filtered memes about coding, tea, and ENTP life. and under it a little time machine stuff  "A year from now" blog entries written in the future-tense (e.g., "2025 Ewa has conquered hackathons and started her tea empire") with a  fake "404 Tea Not Found" page and some memes when users might try to see their own future.
-
-## and if there's still time:
-Extra Nostalgia: Add a fake “System Error: Ewa is too awesome!” popup on my hobbies page
-
 ```
