@@ -1,6 +1,6 @@
-# 🌐 EwaNet: My Personal Internet Portal 🎉
+🌐 EwaNet: My Internet Portal 🎉
 
-Welcome to **EwaNet** ✨, my retro-inspired, personal corner of the web! This project is a quirky, nostalgic throwback to the early internet era, combining fun, creativity, and personal flair with modern web development practices. Whether you're here to explore my hobbies, laugh at memes, or dive into some futuristic musings, EwaNet has something for everyone. 🌟
+Welcome to EwaNet ✨, my retro-inspired, personal corner of the web! This project is a quirky, nostalgic throwback to the early internet era, combining fun, creativity, and personal flair with modern web development practices. Whether you're here to explore my hobbies, laugh at memes, or dive into futuristic musings, EwaNet has something for everyone. 🌟
 
 ---
 
@@ -26,20 +26,20 @@ Welcome to **EwaNet** ✨, my retro-inspired, personal corner of the web! This p
 ## 🎨 Features
 ### Main Pages
 1. **🏠 Home Page**
-   - About me.
-   - 🎵 Music and vibes section featuring the "Ewa Index" (tea level, coding energy, hackathon hype).
-   - 💭 Random rants and thoughts from my ENTP brain.
+   - About me and my links.
+   - 🎵 Music and vibes section.
+   - 💭 Random thoughts from my brain.
 
-2. **📊 Dashboard (Hobbies)**
+2. **📊 Hobbies and Skills**
    - Highlighting my hobbies: crochet, reading, anime, coding, and hackathons.
-   - Includes an "Under Construction" GIF by the hackathon section for added nostalgia.
+   - It includes an "Under Construction" GIF from the hackathon section for added nostalgia.
 
 3. **🤣 Memes and Time Machine**
-   - Gallery of memes about coding, tea, and ENTP life.
-   - A futuristic blog section, "A Year From Now," with entries written in the future tense.
-   - "404 Tea Not Found" error page for exploring fake futures.
+   - Gallery of memes about coding, tea, and life.
+   - A futuristic blog section with entries written in the future tense.
+   - "Error Not Found" error page for exploring fake futures.
 
-- Nostalgic design elements like marquee text and pixel-art-inspired fonts
+- Nostalgic design elements like pixel-art-inspired fonts
 ---
 
 ## 🛠️ Tech Stack
@@ -55,7 +55,7 @@ EwaNet is hosted on **GitHub Pages**.
 
 ### Viewing the Project Online 🌍
 The project is hosted on GitHub Pages. You can view it directly using the provided link:
-```https://<your-username>.github.io/EwaNet/```
+```https://ewa-edun.github.io/EwaNetWebsite/```
 
 ### Running Locally 🖥️
 If you want to run this project locally:
@@ -80,11 +80,11 @@ If you want to run this project locally:
 - **URL**: `/`
 - Features:
   - Intro to the website.
-  - "Ewa Index" displaying daily vibes (e.g., tea level, coding energy).
+  - Today's vibes and random thoughts.
   - About me section.
 
-### 2. 📊 Dashboard (Hobbies)
-- **URL**: `/dashboard`
+### 2. 📊 Hobbies
+- **URL**:
 - Features:
   - List of hobbies: crochet, reading, anime, coding, and hackathons.
   - "Under Construction" GIF for unfinished sections.
@@ -94,14 +94,14 @@ If you want to run this project locally:
 - Features:
   - Meme gallery.
   - "A Year From Now" blog entries.
-  - Fake "404 Tea Not Found" page for failed future predictions.
+  - Fake "error Not Found" page for failed future predictions.
 
 ---
 
 ## 💖 Credits
 EwaNet is designed and developed by **Ewa**, inspired by retro internet aesthetics and powered by creativity and tea! 🍵
 
-Memes and Gifs from "giphy.com" and "imgflip.com"
+Memes and GIFs from "giphy.com" and "imgflip.com"
 
 Fonts are from "fonts.google.com"
 ---
