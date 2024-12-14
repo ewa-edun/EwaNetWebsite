@@ -187,3 +187,7 @@ button{
     font-size: 1.2em;
   }
 }
+
+.onememe{
+  width: fit-content;
+}
