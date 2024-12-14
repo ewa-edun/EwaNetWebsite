@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap'); 
+
+body {
+    background-color:#e1e4e1;
+    color: #000;
+    font-family: 'VT323', monospace, sans-serif;
+    font-size: 1.5em;
+    cursor: pointer;
+  } 
+
+.border{
+ border: 5px solid #FF00FF;
+ border-radius: 5px;
+ box-shadow: 5px 5px 0px #00FFFF;
+}
+
+.navbar ul{
+  list-style-type: none;
+  background-color: #302e2e;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.navbar a{
+  padding: 15px;
+  display: block;
+  text-align: center;  
+  color: #FFF;
+}
+
+.navbar a:hover{
+  background-color: #FFD700;
+}
+
+.navbar li{
+  float:left;
+}
+
+button{
+  font-family: 'VT323', monospace, sans-serif;
+  font-size: 40px;
+  margin-left: 5px;
+  border-radius: 5px;
+  padding: 5px;
+  border-color: #ffffff;
+  cursor: pointer;
+}
+
+.block {
+  background-color: #302e2e; 
+  border: 3px solid #FF00FF; 
+  color: #FFF; 
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 900px;
+  text-align: center;
+  box-shadow: 5px 5px 0px #00FFFF; 
+  position: relative;
+  left: 150px;
+}
+
+.block-title {
+  font-size: 2rem;
+  color: #FFD700; 
+  text-shadow: 2px 2px 0px #000; 
+}
+
+.side{
+  background-color: #302e2e; 
+  border: 3px solid #FF00FF; 
+  color: #FFF; 
+  margin-left: 20px auto;
+  margin-top: 40px;
+  padding: 5px;
+  min-width: 250px;
+  max-width:280px;
+  min-height: 650px;
+  float: left;
+  text-align: center;
+  box-shadow: 5px 5px 0px #00FFFF;  
+  position: relative;
+  left: 35px;
+}
+
+.mylink{
+  text-decoration: none;
+  color: #FFF;
+}
+
+.mylink:hover{
+   background-color: #FF00FF;
+}
+
+.mylink:visited{
+  color: #FFF;
+}
+
+.memes{
+  height: fit-content;
+  width: 130px;
+}
+
+.baitbutton {
+  background-color: #FF00FF;
+  color: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-family: 'VT323', monospace, sans-serif;
+  border: 2px solid #00FFFF;
+  display: inline-block;
+  text-align: center;
+}
+
+.hidden-text {
+  display: none;
+  color: #00ff00;
+  font-family: 'VT323', monospace;
+  margin-top: 10px;
+}
+
+#clickbaitButton:checked + .hidden-text {
+  display: block;
+}
+
+.meme-container {
+  display: none;
+  text-align: center;
+  color: #00ff00;
+  font-family: 'VT323', monospace;
+}
+
+#timeMachine:checked + .meme-container {
+  display: block;
+}
+
+.topic{
+  color: #00ff00;
+}
